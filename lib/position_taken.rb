@@ -2,7 +2,7 @@
 
 def position_taken?(board, index)
  ((board[index]=="   ") || (board[index]=="") || (board[index] == nil))
-false
+puts false
 (board[index]== "O" || board[index] == "X")
 true
 
