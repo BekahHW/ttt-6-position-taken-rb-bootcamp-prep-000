@@ -7,6 +7,6 @@ end
 (board[index]== O || board[index] == X)
 true
 
-end
+
 end
 
